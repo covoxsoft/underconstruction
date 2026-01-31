@@ -9,7 +9,7 @@ function App() {
         <span>Work in Progress</span>
       </div>
 
-      <h1>Site Under Construction</h1>
+      <h1>Coming Soon</h1>
 
       <div className="separator"></div>
 
